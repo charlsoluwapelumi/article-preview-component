@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/charlsoluwapelumi/article-preview-component/)
-- Live Site URL: [Add live site URL here](https://charlsoluwapelumi.github.io/article-preview-component/)
+- Solution URL: [solution](https://github.com/charlsoluwapelumi/article-preview-component/)
+- Live Site URL: [live site](https://charlsoluwapelumi.github.io/article-preview-component/)
 
 ## My process
 
